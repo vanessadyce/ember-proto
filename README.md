@@ -1,4 +1,4 @@
-# My-new-app
+# Preprint
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -47,7 +47,9 @@ Specify what it takes to deploy your app.
 
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
+* [tutorial])(http://www.thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/)
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
 
